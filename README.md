@@ -1,6 +1,9 @@
 # textsumThesis
 Text summrization project copied from https://github.com/tensorflow/models/tree/master/textsum
 
+trained Model: https://clarin06.ims.uni-stuttgart.de/lfz_carlos/textsumFinal
+
+
 to run the model, plese "#" for the  line open train mode and decode mode and use the command:
 sh run_E_FR.sh
 
